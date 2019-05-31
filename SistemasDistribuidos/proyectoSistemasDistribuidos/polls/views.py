@@ -6,7 +6,6 @@ from django.http import JsonResponse
 import json
 
 @api_view(["POST"])
-
 def Suma(numeros):
     try:
         num = json.load(numeros.body)
