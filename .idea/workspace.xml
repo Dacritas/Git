@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2d2b852-9335-47fc-8c50-ce61bbe14aef" name="Default Changelist" comment="" />
+    <list default="true" id="c2d2b852-9335-47fc-8c50-ce61bbe14aef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/proyectoSistemasDistribuidos/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/proyectoSistemasDistribuidos/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/proyectoSistemasDistribuidos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/proyectoSistemasDistribuidos/urls.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +21,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/polls/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -25,31 +31,65 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/proyectoSistemasDistribuidos/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="e#652#684#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/polls/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/proyectoSistemasDistribuidos/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="119">
+              <caret line="107" column="18" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/IngenieriaSoftware1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SistemasDistribuidos/test.py" />
         <option value="$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/polls/views.py" />
+        <option value="$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/polls/urls.py" />
+        <option value="$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/proyectoSistemasDistribuidos/urls.py" />
+        <option value="$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/proyectoSistemasDistribuidos/settings.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="85" />
+    <option name="x" value="638" />
     <option name="y" value="25" />
-    <option name="width" value="1750" />
+    <option name="width" value="1197" />
     <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,6 +129,14 @@
               <item name="Git" type="462c0819:PsiDirectoryNode" />
               <item name="SistemasDistribuidos" type="462c0819:PsiDirectoryNode" />
               <item name="proyectoSistemasDistribuidos" type="462c0819:PsiDirectoryNode" />
+              <item name="polls" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Git" type="462c0819:PsiDirectoryNode" />
+              <item name="SistemasDistribuidos" type="462c0819:PsiDirectoryNode" />
+              <item name="proyectoSistemasDistribuidos" type="462c0819:PsiDirectoryNode" />
               <item name="proyectoSistemasDistribuidos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -98,7 +146,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DEIGO\Documents\Git\SistemasDistribuidos\proyectoSistemasDistribuidos\polls" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,13 +213,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/proyectoSistemasDistribuidos/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -173,6 +220,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="67" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/polls/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/proyectoSistemasDistribuidos/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#652#684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemasDistribuidos/proyectoSistemasDistribuidos/proyectoSistemasDistribuidos/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="107" column="18" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
         </state>
       </provider>
     </entry>
